@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 1 操作系统，不要用windows搞ror开发，会遇到各种奇怪的问题，而且没有会帮你，因为几乎没有人会用windows开发，操作系统最推荐用Mac或者Ubuntu系统
 2 加入http://ruby-china.org/这个社区，里面问所有问题都有人回复，ruby社区不同于其它社区，所有大牛都热情回答新手问题；http://ruby-china.org/wiki 这个页面上有很多给新手准备的文章，都写的很好，不管懂不懂里面讲的是什么，可以先看看这个页面上面的链接
@@ -30,3 +31,6 @@ Web W3C
 Web Quality 
 8 http://www.codeschool.com/paths/ruby 这里面有很多免费课程，都是边动手边学习的，很不错；还有这本书https://leanpub.com/rails-101
 
+=======
+123
+>>>>>>> origin/master

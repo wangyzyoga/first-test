@@ -1,4 +1,3 @@
-
 ####1 操作系统
 不要用windows搞ror开发，会遇到各种奇怪的问题，而且没有会帮你，因为几乎没有人会用windows开发，操作系统最推荐用Mac或者
 Ubuntu系统
@@ -34,6 +33,6 @@ Ubuntu系统
 ####讨论交流
 在使用中有任何问题，可以用以下联系方式跟我讨论交流
 
-* Email：wangyzyoga@gmail.como
+* Email：wangyzyoga@gmail.com
 * QQ: 361136342
 * weibo: [@wangyzyoga](http://weibo.com/wangyzyoga)

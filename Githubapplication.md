@@ -17,36 +17,38 @@
 
 一个版本管理系统，长用与多人共同开发项目
 
-####4 Git 常用命令？
+####4 Git 有哪些功能？
 
-1  创建Git 库
+1  创建Git本地库
   
      命令 $：git init
 
-2  查看版本库状态
+2  查看本地库状态
 
      命令$：git status
 
-3  通知Git 库文件发生变化
+3  通知本地版本库文件发生变化
 
      命令$：git add filename
 
-4  向版本库提交变化
+4  向本地版本库提交变化
    
      命令$：git commit -m "comment"
 
-5  从版本库获取一个Git 库
+5  从远程库获取一个Git库
 
      命令$：git clone
 
-6  从版本库获取一个Git 分支
+6  从远程库获取一个Git分支
     
      命令$：git pull
      
-7  把本地内容向版本库提交
+7  把本地库内容提交远程库
 
      命令$：git push
-    
+8 图解GIT工作原理
+
+看图比较直接，此处有详细说明 http://nettedfish.sinaapp.com/blog/2013/08/05/deep-into-git-with-diagrams/
 
 ##友情提示
 在使用中有任何问题，可以用以下联系方式跟我交流：
@@ -54,3 +56,4 @@
 * Email：wangyzyoga@gmail.com
 * QQ：361136342
 * weibo：[@wangyzyoga](http://weibo.com/wangyzyoga)
+

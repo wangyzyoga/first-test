@@ -66,7 +66,6 @@ my_dungeon.add_room(:smallcave,"Small Cave","a small,claustrophobic cave",{ :eas
 
 my_dungeon.start(:smallcave)
 
-
 my_dungeon.go(:west)
 
 

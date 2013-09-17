@@ -1,4 +1,3 @@
-
 ####1 购买域名及相关应用
 * 地址 http://t.cn/zQuvLQ1
 * 买域名的时候，在网上搜一下godaddy优惠码，一般会便宜5美元左右 http://t.cn/zQuL8Tb
@@ -46,9 +45,13 @@
 7  把本地库内容提交远程库
 
      命令$：git push
-8 图解GIT工作原理
+8  图解GIT工作原理
 
 看图比较直接，此处有详细说明 http://nettedfish.sinaapp.com/blog/2013/08/05/deep-into-git-with-diagrams/
+
+9  本地新建Git分支自动与远程分支关联
+
+     命令$：git branch --set-upstream production origin/production
 
 ##友情提示
 在使用中有任何问题，可以用以下联系方式跟我交流：
